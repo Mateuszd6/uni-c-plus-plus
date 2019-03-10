@@ -1,0 +1,6 @@
+*.dep
+*.valgr
+*.log
+*.swp
+*.o
+main
